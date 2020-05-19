@@ -1,4 +1,5 @@
-# aws-sa-associate-saac02
+# AWS-SAA-002
+
 Course Files for AWS Certified Solutions Architect Certification Course (SAAC02) - Adrian Cantrill
 
 If you find something wrong feel free to let me know at  saac02-feedback@cantrill.io 
